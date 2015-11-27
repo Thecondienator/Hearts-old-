@@ -14,7 +14,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 
 public class Hand extends ActionBarActivity {
-	/* test comment */
+
 	/* CONSTANTS */
 	private enum Suit {SPADES, HEARTS, DIAMONDS, CLUBS}
 	private enum Rank {ACE, TWO, THREE, FOUR, FIVE, SIX, SEVEN, EIGHT, NINE, TEN, JACK, QUEEN, KING}
